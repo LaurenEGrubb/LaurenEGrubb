@@ -6,13 +6,13 @@
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg" />
 </div>
-<details>
+
   <p align="center">
     <br/>
     A highly motivated, analytically minded and customer-oriented professional with experience in modern technologies and frameworks such as Javascript, SQL, CSS and more. Seasoned with fast paced environments, managing teams, and comes with a proven record of working with diverse groups and environments. My primary goal and passion is ensuring that my team will always be the avant-garde in the industry.
   </p>
-</details>
-<details>
+
+
   <summary>☎️Contact me</summary>
 <div>
   <samp>
@@ -29,10 +29,10 @@
   <p align="center">
   </samp>
 </div>
-</details>
+
 
 <div>
-<details> 
+ 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
@@ -49,6 +49,6 @@
        </p>
      <br>
   </div>    
-</details>
+
 
 
