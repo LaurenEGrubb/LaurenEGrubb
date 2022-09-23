@@ -13,7 +13,7 @@
   </p>
 
 
-  <summary>☎️Contact me</summary>
+  
 <div>
   <samp>
     <h2 align="center">You can reach me by:</h2>
@@ -33,7 +33,7 @@
 
 <div>
  
-  <summary>💻 GitHub Profile Stats</summary>
+  
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
